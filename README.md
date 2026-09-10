@@ -29,4 +29,4 @@ All the books and even more are available in pdf via our [Yandex Disk Library Fo
 
 | Lecture Topic | Lecture Date | Lecture Record | Home Assignment |  Deadline  |
 |:-|:-:|:-:|:-:|:-:|
-| Intoduction to Algorithms. Complexity. Big-O, Big-Theta, Big-Omega Notations. Fibonacci numbers. | 04.09.2026 | [lecture](https://disk.yandex.ru/i/JFMI4d3yeCOa7A) | [assignment](/home_assignments/ha01/algmag_ha01_2025.pdf) | 09.09.2025 23:59 |
+| Intoduction to Algorithms. Complexity. Big-O, Big-Theta, Big-Omega Notations. Fibonacci numbers. | 04.09.2026 | [lecture](https://disk.yandex.ru/i/JFMI4d3yeCOa7A) | [assignment](https://github.com/kefir8888/algmag2026/tree/main/home_assignments/ha1) | 09.09.2025 23:59 |
