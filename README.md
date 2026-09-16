@@ -1,6 +1,6 @@
-# Algorithms and Software Development - Starkit MIPT Master of Sciences program (Autumn 2026 - Spring 2027)
+# Algorithms and Software Development - Starkit MIPT Master (Autumn 2026 - Spring 2027)
 
-The repository for a course Algorithms-2026 by robotics team Starkit from MIPT. The course is a part of MSc program RAI for MIPT students in Artificial Intelligence and Robotics.
+The repository for course ALG-2026 by robotics team Starkit from MIPT. The course is a part of MSc program for MIPT students in Artificial Intelligence and Robotics.
 
 Authors: Ilya Osokin, Prokhor Iashin.
 
@@ -8,15 +8,16 @@ Authors: Ilya Osokin, Prokhor Iashin.
 
 The repository is updated according to the course flow. Here you can find the following parts of the course:
 
-- [Home Assignments](/home_assignments)
+- [Home Assignments](https://github.com/kefir8888/algmag2026/tree/main/home_assignments)
+- [Lectures](https://github.com/kefir8888/algmag2026/tree/main/lectures)
 
 Moreover, there are several additional course pages:
 
 - [Google Classroom](https://classroom.google.com/c/ODc3ODkyODA3MjY2?cjc=tm4cqrsp) - home assignments
-- [Yandex.Disk](https://disk.yandex.ru/d/KX2YvEJVZJAK2Q) - video recordings
+- [Yandex.Disk](https://disk.yandex.ru/d/KX2YvEJVZJAK2Q) - video records of lectures
 - [Overleaf Project](https://www.overleaf.com/read/nvrcypsqrxwq#34ae28) - LaTeX sources of home assignments
 
-## Recommended Literature
+## Recommended Resources
 
 You may also see the list of recommended literature:
 
@@ -27,6 +28,9 @@ All the books and even more are available in pdf via our [Yandex Disk Library Fo
 
 ## Course Program
 
-| Lecture Topic | Lecture Date | Lecture Record | Home Assignment |  Deadline  |
-|:-|:-:|:-:|:-:|:-:|
-| Intoduction to Algorithms. Complexity. Big-O, Big-Theta, Big-Omega Notations. Fibonacci numbers. | 04.09.2026 | [lecture](https://disk.yandex.ru/i/JFMI4d3yeCOa7A) | [assignment](https://github.com/kefir8888/algmag2026/tree/main/home_assignments/ha1) | 09.09.2025 23:59 |
+| Lecture Topic | Lecture Date | Lecture Record | Notes | Home Assignment | Deadline |
+| --- | --- | --- | --- | --- | --- |
+| Introduction to Algorithms. Complexity. Big-O, Big-Theta, Big-Omega Notations. Fibonacci numbers. | 04.09.2026 | [lecture](https://disk.yandex.ru/i/JFMI4d3yeCOa7A) | - | [assignment](https://github.com/kefir8888/algmag2026/tree/main/home_assignments/01_complexity) | 09.09.2026 23:59 |
+| Sorting. Lower bounds. |  |  |  | [assignment](https://github.com/kefir8888/algmag2026/tree/main/home_assignments/02_sorting) |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |

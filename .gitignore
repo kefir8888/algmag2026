@@ -8,6 +8,8 @@
 *.synctex(busy)
 *.out
 
+# Jupyter Notebook
+.ipynb_checkpoints
 
 # OS specific files
 # MacOS
